@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Beyond The Time",
+  "base_artist": "TM NETWORK",
+  "createdAt": "2026-02-17T12:18:18.930739Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Go Beyond the Time",
+      "artist": "Richie Kotzen",
+      "has_synced": true,
+      "path": "select/01_Go_Beyond_the_Time_Richie_Kotzen.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "BEYOND THE TIME (メビウスの宇宙を越えて)",
+      "artist": "TM NETWORK",
+      "has_synced": false,
+      "path": "select/02_BEYOND_THE_TIME_(メビウスの宇宙を越えて)_TM_NETWORK.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "BEYOND THE TIME 〜メビウスの宇宙を越えて〜",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/03_BEYOND_THE_TIME_〜メビウスの宇宙を越えて〜_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "步履不停(Beyond the time)",
+      "artist": "SNH48",
+      "has_synced": false,
+      "path": "select/04_步履不停(Beyond_the_time)_SNH48.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Beyond the time",
+      "artist": "BTOB",
+      "has_synced": true,
+      "path": "select/05_Beyond_the_time_BTOB.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Beyond the Time - Beyond the Mobius Universe",
+      "artist": "TM Network",
+      "has_synced": true,
+      "path": "select/06_Beyond_the_Time_-_Beyond_the_Mobius_Universe_TM_Network.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Beyond the Space, Beyond the Time",
+      "artist": "Pathfinder",
+      "has_synced": true,
+      "path": "select/07_Beyond_the_Space,_Beyond_the_Time_Pathfinder.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "BEYOND THE TIME ~メビウスの宇宙を越えて~",
+      "artist": "森口博子",
+      "has_synced": true,
+      "path": "select/08_BEYOND_THE_TIME_~メビウスの宇宙を越えて~_森口博子.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Beyond the time",
+      "artist": "福富寿一(CV.前野智昭)",
+      "has_synced": true,
+      "path": "select/09_Beyond_the_time_福富寿一(CV.前野智昭).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Beyond the Time (Expanded Version)",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/10_Beyond_the_Time_(Expanded_Version)_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "BEYOND THE TIME",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/11_BEYOND_THE_TIME_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "BEYOND THE TIME (メビウスの宇宙を越えて) - Beyond The Time",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/12_BEYOND_THE_TIME_(メビウスの宇宙を越えて)_-_Beyond_The_Time_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Beyond the Time (メビウスの宇宙を越えて)",
+      "artist": "TM Network",
+      "has_synced": true,
+      "path": "select/13_Beyond_the_Time_(メビウスの宇宙を越えて)_TM_Network.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "BEYOND THE TIME (メビウスの宇宙を越えて)",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/14_BEYOND_THE_TIME_(メビウスの宇宙を越えて)_TM_NETWORK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "BEYOND the TIME",
+      "artist": "TM NETWORK Tribute",
+      "has_synced": false,
+      "path": "select/pl_01_BEYOND_the_TIME_TM_NETWORK_Tribute.txt"
+    }
+  ]
+}
